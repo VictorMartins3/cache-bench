@@ -1,0 +1,12 @@
+row_major
+col_major
+row_major_native
+col_major_native
+row_major_rs
+col_major_rs
+
+*.o
+*.so
+*.a
+
+.DS_Store
